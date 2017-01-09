@@ -1,0 +1,12 @@
+label.light {
+  font-weight: 300;
+  float: left;
+}
+
+* {
+	display: inline-block;
+	float: left;
+}
+
+
+}
